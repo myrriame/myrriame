@@ -1,4 +1,5 @@
-## Hi there , I'm Myrriame (M-Ear-E-Um) 😄
+## Hi there , I'm Myrriame 
+<img align="left" alt="Meerkat icon" width="20px" src=https://www.clipartmax.com/png/middle/187-1875824_meerkat-icon-gray-meerkat-live-stream.png />
 
 ### Check out my [Portfolio](https://myrriame.herokuapp.com/)!
 
