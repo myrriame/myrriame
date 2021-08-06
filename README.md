@@ -3,7 +3,7 @@
 ### Check out my [Portfolio](https://myrriame.herokuapp.com/)!
 
 
-  <img align="center" alt="myrriame github stats" src="https://github-readme-stats.vercel.app/api/pin/?username=myrriame&showicons=true&hidden_border=true&theme=gradient" />
+  <img align="center" alt="myrriame github stats" src="https://github-readme-stats.vercel.app/api/pin/?username=myrriame&showicons=true&hidden_border=true" />
 
 
 ### Languages and Tools:
