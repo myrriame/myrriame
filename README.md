@@ -1,9 +1,10 @@
-## Hi there , I'm Myrriame 
 
-### Check out my [Portfolio](https://myrriame.herokuapp.com/)!
+<h1 align="center"> Hi there , I'm Myrriame </h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myrriame&count_private=true&show_icons=true&theme=jolly&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">Check out my [Portfolio](https://myrriame.herokuapp.com/)!</h3>
 
+<p align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myrriame&count_private=true&show_icons=true&theme=jolly&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 ### Languages and Tools:
 
