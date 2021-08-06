@@ -2,9 +2,8 @@
 
 ### Check out my [Portfolio](https://myrriame.herokuapp.com/)!
 
-<a href="https://github.com/myrriame/github-readme-stats">
-  <img align="center" alt="myrriame github stats" src="https://github-readme-stats.vercel.app/api/pin/?username=myrriame&showicons=true&hidden_border=true" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myrriame)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Languages and Tools:
 
