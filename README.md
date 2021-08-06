@@ -1,7 +1,10 @@
 ## Hi there , I'm Myrriame 
-<img align="left" alt="Meerkat icon" width="20px" src=https://www.clipartmax.com/png/middle/187-1875824_meerkat-icon-gray-meerkat-live-stream.png />
 
 ### Check out my [Portfolio](https://myrriame.herokuapp.com/)!
+
+
+  <img align="center" alt="myrriame github stats" src="https://github-readme-stats.vercel.app/api/pin/?username=myrriame&showicons=true&hidden_border=true&theme=gradient" />
+
 
 ### Languages and Tools:
 
