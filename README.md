@@ -1,5 +1,5 @@
 
-<h3 align="center"> Hi there , I'm Myrriame :D</h3>
+<h3> Hi there , I'm Myrriame :D</h3>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myrriame&count_private=true&show_icons=true&theme=material-palenight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
