@@ -1,7 +1,7 @@
 
-<h1 align="center"> Hi there , I'm Myrriame
+<h1 align="center"> Hi there , I'm Myrriame :D
 
-Check out my [Portfolio](https://myrriame.herokuapp.com/)! <br>
+<h5>Check out my [Portfolio](https://myrriame.herokuapp.com/)! <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myrriame&count_private=true&show_icons=true&theme=material-palenight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
