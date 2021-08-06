@@ -2,7 +2,7 @@
 
 ### Check out my [Portfolio](https://myrriame.herokuapp.com/)!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myrriame&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myrriame&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Languages and Tools:
