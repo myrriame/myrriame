@@ -1,5 +1,5 @@
 
-<h3> Hi there , I'm Myrriame :D</h3> 
+<h3> Hi there, I'm Myrr :D</h3> 
 <p>Check out my Portfolio https://myrriame.github.io/ </p>
 
     
